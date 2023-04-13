@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#!/usr/bin/python
 """Performs log parsing from stdin"""
 
 import re
