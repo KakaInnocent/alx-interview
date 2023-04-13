@@ -1,4 +1,4 @@
-
+#! /usr/bin/env python
 """Performs log parsing from stdin"""
 
 import re
